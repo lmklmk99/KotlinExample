@@ -7,7 +7,7 @@ import org.junit.Test
  */
 class aggregate {
 
-    var list = listOf(1, 2, 3, 4, 5 ,6)
+    var list = listOf(1, 2, 3, 4, 5 ,6, 8, 9)
 
     @Test
     @Throws(Exception::class)
